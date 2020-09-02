@@ -1,5 +1,6 @@
 # Template Engine - Employee Summary
 
+![README GIF] (https://github.com/marianacode/Template-Engine---Employee-Summary/blob/master/Demo/Employee%20Summary.gif)
 
 <img src="./Assets/Capture.JPG" alt="Employee Template"> 
 
