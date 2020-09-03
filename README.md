@@ -1,6 +1,7 @@
 # Template Engine - Employee Summary
 
 
+
 <img src="./Assets/Capture.JPG" alt="Employee Template"> 
 
 ## Description
